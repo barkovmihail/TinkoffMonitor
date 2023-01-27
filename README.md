@@ -8,8 +8,8 @@ To [get started](https://developers.google.com/api-client-library/dotnet/get_sta
 To [get started](https://www.tinkoff.ru/invest/open-api/), follow the instructions
 
 ## Screens
-![alt text](https://github.com/TinkoffMonitor/edit/main/public/screen1.png)
-![alt text](https://github.com/TinkoffMonitor/edit/main/public/screen2.png)
+![alt text](https://github.com/barkovmihail/TinkoffMonitor/blob/main/public/screen1.png)
+![alt text](https://github.com/barkovmihail/TinkoffMonitor/blob/main/public/screen2.png)
 
 ### License
 [MIT licensed](./LICENSE).
